@@ -5,17 +5,17 @@ A intenção é facilitar a importação de arquivos de NF-e, CF-e, e NFC-e em s
 
 O programa faz a seguinte conversão:
 
-& == &amp;
+De & para &amp;
 
-< == &lt;
+De < para &lt;
 
-> == &gt;
+De > para &gt;
 
-' == &apos;
+De ' para &apos;
 
-" == &quot;
+De " para &quot;
 
-| == &#124;
+De | para &#124;
 
 E por fim, remove: \
  
