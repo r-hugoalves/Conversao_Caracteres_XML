@@ -6,11 +6,17 @@ A intenção é facilitar a importação de arquivos de NF-e, CF-e, e NFC-e em s
 O programa faz a seguinte conversão:
 
 & == &amp;
+
 < == &lt;
+
 > == &gt;
+
 ' == &apos;
+
 " == &quot;
+
 | == &#124;
+
 E por fim, remove: \
  
 A conversão se dá por meio de múltiplos arquivos que são salvos e convertidos, um a um, salvado em um arquivo final que é exportado em ".txt"
